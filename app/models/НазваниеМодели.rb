@@ -1,2 +1,0 @@
-class НазваниеМодели < ApplicationRecord
-end
